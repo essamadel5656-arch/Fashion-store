@@ -1,4 +1,4 @@
-<img src="screenshot/Screenshot%20(118).png" width="400" alt="products">
+<img src="screenshot/Screenshot118.png" width="400" alt="products">
 # 🛍️ Fashion Store (Under Development)
 
 مشروع متجر ملابس بسيط لتعلم أساسيات إطار العمل لارافل. المشروع حالياً في مرحلة التطوير الأولية.
